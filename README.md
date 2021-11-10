@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrKill
+- 👀 I’m interested in Python, C#, etc
+- 🌱 I’m currently learning Python
