@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pairett
-- 👀 I’m interested in Python, C#, etc
+- 👀 I’m interested in Python, C#, PHP, etc
 - 🌱 I’m currently learning Python
